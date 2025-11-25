@@ -1,3 +1,19 @@
+This is a fork of the official `okio` library.
+
+Original project: https://github.com/square/okio
+Original license: Apache License, Version 2.0
+
+Modifications in this fork include:
+- Added Swift Package Manager (SPM) `Package.swift` manifest
+- Added `.kt.swift` source shim mechanism for SwiftPM
+- Added Kotlin/Native (`konanc`) configuration for custom `swift-build`
+- Added dependency mapping for Okio to a SwiftPM-compatible fork
+- Added Swift/Kotlin interoperability build integration metadata
+
+All modifications in this repository are licensed under the same
+Apache License, Version 2.0, as the upstream project.
+
+--------------------------------------------------------------------
 
                                  Apache License
                            Version 2.0, January 2004
