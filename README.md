@@ -1,6 +1,5 @@
 # okio-fork-for-swift-build
 
-![Research](https://jb.gg/badges/research-plastic.svg)
 [![JetBrains incubator project](https://jb.gg/badges/incubator.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 [![GitHub license](https://img.shields.io/github/license/square/okio)](LICENSE)
 
