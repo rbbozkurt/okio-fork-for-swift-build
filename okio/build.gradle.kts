@@ -261,8 +261,8 @@ data class RemoteSPM(val url: String, val exact: String, val productName : Strin
 // If you map by Maven coordinate, use "group:name" to avoid ambiguity:
 val kmpToSpm: Map<String, RemoteSPM> = mapOf(
   "com.squareup.okio:okio" to RemoteSPM(
-    url = "https://github.com/berkaybozkurt-jb/okio-fork-for-swift-build",
-    exact = "1.0.1", // ensure this matches an actual Git tag in the SPM repo,
+    url = "https://github.com/rbbozkurt/okio-fork-for-swift-build",
+    exact = "3.17.0-swiftpm-SNAPSHOT.0", // ensure this matches an actual Git tag in the SPM repo,
     productName = "okio",
     productPackage = "okio-fork-for-swift-build",
   )
@@ -497,8 +497,8 @@ private fun buildKonanFragmentArgsUsingLinks(
 
 /* -------------------- Task -------------------- */
 
-tasks.register("convertThisProjectToSwiftPMBuild") {
-  group = "spm"
+tasks.register("convertToSwiftPMPackage") {
+  group = "swiftpm"
   description = "Export this KMP project (+ deps) as an SPM package via symlinks and generate Package.swift with cSettings flags from SPM links."
 
   doLast {

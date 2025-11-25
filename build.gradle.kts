@@ -243,3 +243,10 @@ allprojects {
     environment("OKIO_ROOT", rootDir.toString())
   }
 }
+
+
+tasks.register("convertOkioToSwiftPMPackage") {
+    group = "swiftpm"
+    description = "Convert the Okio project into a SwiftPM-compatible layout."
+    dependsOn(project(":okio").tasks.named("convertToSwiftPMPackage"))
+}
