@@ -1,1 +1,1 @@
-../../../okio/src/commonMain/kotlin/okio/internal/-Utf8Internal.kt
+/Users/berkay.bozkurt/IdeaProjects/okio-fork-for-swift-build/Sources/okio/commonMain/../../../okio/src/commonMain/kotlin/okio/internal/-Utf8Internal.kt

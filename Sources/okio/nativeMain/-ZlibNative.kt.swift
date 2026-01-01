@@ -1,1 +1,1 @@
-../../../okio/src/nativeMain/kotlin/okio/internal/-ZlibNative.kt
+/Users/berkay.bozkurt/IdeaProjects/okio-fork-for-swift-build/Sources/okio/nativeMain/../../../okio/src/nativeMain/kotlin/okio/internal/-ZlibNative.kt

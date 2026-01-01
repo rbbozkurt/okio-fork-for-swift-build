@@ -1,1 +1,1 @@
-../../../okio/src/nativeMain/kotlin/okio/Cinterop.kt
+/Users/berkay.bozkurt/IdeaProjects/okio-fork-for-swift-build/Sources/okio/nativeMain/../../../okio/src/nativeMain/kotlin/okio/Cinterop.kt

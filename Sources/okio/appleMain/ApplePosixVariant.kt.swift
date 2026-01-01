@@ -1,1 +1,1 @@
-../../../okio/src/appleMain/kotlin/okio/ApplePosixVariant.kt
+/Users/berkay.bozkurt/IdeaProjects/okio-fork-for-swift-build/Sources/okio/appleMain/../../../okio/src/appleMain/kotlin/okio/ApplePosixVariant.kt

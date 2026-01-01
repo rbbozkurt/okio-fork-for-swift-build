@@ -1,1 +1,1 @@
-../../../okio/src/zlibMain/kotlin/okio/ZipFileSystem.kt
+/Users/berkay.bozkurt/IdeaProjects/okio-fork-for-swift-build/Sources/okio/zlibMain/../../../okio/src/zlibMain/kotlin/okio/ZipFileSystem.kt

@@ -1,3 +1,7 @@
+pluginManagement {
+  includeBuild("../swift-build/Gradle2SwiftPMConversionPlugin")
+}
+
 rootProject.name = "okio-parent"
 
 includeBuild("build-support")
