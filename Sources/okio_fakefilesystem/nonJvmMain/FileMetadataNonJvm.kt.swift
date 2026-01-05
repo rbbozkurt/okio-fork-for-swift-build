@@ -1,1 +1,0 @@
-/Users/berkay.bozkurt/IdeaProjects/okio-fork-for-swift-build/Sources/okio_fakefilesystem/nonJvmMain/../../../okio-fakefilesystem/src/nonJvmMain/kotlin/okio/fakefilesystem/FileMetadataNonJvm.kt
