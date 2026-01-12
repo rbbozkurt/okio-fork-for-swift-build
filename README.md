@@ -52,7 +52,9 @@ is encoded into:
 
 ```swift
 cSettings: [
-    .define("KOTLIN", to: "<konanc flags with __PACKAGE_DIR__ placeholder>")
+  .define("KOTLINC_NATIVE_ARCH_ARGS", to: "{ ... }"),   // JSON: kotlinc-native target -> "<fragment flags>"
+  .define("KOTLINC_NATIVE_ARCH_SOURCES", to: "{ ... }"),              // JSON: "relative/path.kt" -> [kotlinc-native target]
+  .define("KOTLINC_NATIVE_COMMON_ARGS", to: "[ ... ]") // JSON array of common flags
 ]
 ```
 
