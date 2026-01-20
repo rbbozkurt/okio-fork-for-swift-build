@@ -1,1 +1,1 @@
-/Users/berkay.bozkurt/IdeaProjects/okio-fork-for-swift-build/Sources/okio/zlibMain/okio/../../../../okio/src/zlibMain/kotlin/okio/InflaterSource.kt
+../../../../okio/src/zlibMain/kotlin/okio/InflaterSource.kt

@@ -1,1 +1,1 @@
-/Users/berkay.bozkurt/IdeaProjects/okio-fork-for-swift-build/Sources/okio/appleMain/okio/../../../../okio/src/appleMain/kotlin/okio/SegmentedByteString.kt
+../../../../okio/src/appleMain/kotlin/okio/SegmentedByteString.kt

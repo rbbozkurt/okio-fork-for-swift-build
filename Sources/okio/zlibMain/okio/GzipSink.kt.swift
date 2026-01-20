@@ -1,1 +1,1 @@
-/Users/berkay.bozkurt/IdeaProjects/okio-fork-for-swift-build/Sources/okio/zlibMain/okio/../../../../okio/src/zlibMain/kotlin/okio/GzipSink.kt
+../../../../okio/src/zlibMain/kotlin/okio/GzipSink.kt

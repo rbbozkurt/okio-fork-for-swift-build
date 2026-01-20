@@ -1,1 +1,1 @@
-/Users/berkay.bozkurt/IdeaProjects/okio-fork-for-swift-build/Sources/okio/nonJsMain/okio/internal/../../../../../okio/src/nonJsMain/kotlin/okio/internal/ByteStringNonJs.kt
+../../../../../okio/src/nonJsMain/kotlin/okio/internal/ByteStringNonJs.kt

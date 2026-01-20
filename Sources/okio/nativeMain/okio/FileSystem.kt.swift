@@ -1,1 +1,1 @@
-/Users/berkay.bozkurt/IdeaProjects/okio-fork-for-swift-build/Sources/okio/nativeMain/okio/../../../../okio/src/nativeMain/kotlin/okio/FileSystem.kt
+../../../../okio/src/nativeMain/kotlin/okio/FileSystem.kt
